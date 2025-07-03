@@ -1,1 +1,6 @@
-# Spotify-Clone
+# Spotify-Clone![IMG_0579](https://github.com/user-attachments/assets/294f55cf-a522-425b-8e71-5ad73d2b0834)
+![IMG_0580](https://github.com/user-attachments/assets/828f7c20-2571-45cf-a343-855625fa0cdb)
+![IMG_0581](https://github.com/user-attachments/assets/6844efe7-cc4f-4112-960c-fd4ba8a84a9d)
+![IMG_0582](https://github.com/user-attachments/assets/e3b6ac79-9111-4d3a-afbc-432332095d39)
+![IMG_0583](https://github.com/user-attachments/assets/390956d0-9082-43d7-92e1-8c090da07ac6)
+![IMG_0584](https://github.com/user-attachments/assets/3c4bde31-f9c9-459a-ad8d-dc6d1a2dd845)
